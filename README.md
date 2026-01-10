@@ -1,4 +1,2 @@
-# Delta--Demo
-this is a demo for github &amp; git class.
-# teacher
-bagejahan
+# New project
+this project was created from lcs.
